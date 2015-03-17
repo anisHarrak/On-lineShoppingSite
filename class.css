@@ -1,0 +1,70 @@
+/* CSS Document */
+.theatre{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size:35px;
+	font-weight: bold;
+	color: #F7230C;
+	text-decoration: none;
+	
+}
+
+.tickets{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 15px;
+	color:#F7230C;
+	text-decoration: none;
+
+	
+}
+.menu{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+	
+}
+.menu:hover{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	
+}
+
+.visited{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 16px;
+	font-weight: bold;
+	color: #d0a779;
+	text-decoration: none;
+	
+}
+.vis{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #d0a779;
+	text-decoration: none;
+	
+}
+.show{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 28px;
+	font-weight: bold;
+	color: #D29551;
+	text-decoration: none;
+	
+}
+.casting{
+	font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 28px;
+	font-weight: bold;
+	color: #D29551;
+	text-decoration: none;
+	
+}
+.cnx {
+	margin: 0 0 5px;
+	padding: 0;	
+}

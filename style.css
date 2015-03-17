@@ -1,0 +1,143 @@
+body, p, legend, label, input {
+    font: normal 8pt verdana, helvetica, sans-serif;
+}
+
+/* Forms --------------------------------------------------------------------------------------- */
+fieldset {
+   /*padding: 10px;*/
+    border: 0px;
+    margin-right: 7px;
+}
+
+legend {
+   font-weight: bold;
+   color: #0033FF;
+     float:left;
+}
+
+form label {
+   float:left;
+  /* width: 200px;*/
+   margin: 3px 0px 0px 0px;
+   color: #C07256;
+   font-weight: bold;
+}
+
+form input {
+    
+    margin: 3px 3px 0px 0px;
+    border: 1px #999 solid;
+	
+}
+form textarea {
+    
+    margin: 3px 3px 0px 0px;
+    border: 1px #999 solid;
+	
+}
+
+form input.sansLabel {
+    
+	border: 1px #2A1500 solid;
+	font-weight: bold;
+}
+#customer{
+    width:500px;
+	position : relative;
+	right: 10px;
+	bottom: 250px;
+}
+#visitor{
+    width:500px;
+	position : relative;
+	right: 0px;
+	bottom: 200px;
+}
+
+#contact{
+
+   width:500px;
+	position : relative;
+	right: 10px;
+	bottom: 200px;
+}
+
+#show{
+	width:500px;
+	position : relative;
+	right: 300px;
+	bottom: 150px;
+}
+#casting{
+	width:500px;
+	position : relative;
+	right: 300px;
+	bottom: 200px;
+}	
+#tableau{
+	width:500px;
+	position : relative;
+	right: 100px;
+	bottom: 150px;
+}
+#tab{
+    width:500px;
+	position : relative;
+	right: 100px;
+	bottom: 200px;
+}
+#sidebar {
+	width: 280px;
+	float: left;
+	margin: 30px 0px 30px;
+	position:relative;
+	bottom: 10px;
+	left: 950px;
+}
+#user{
+ width: 200px;
+	float: left;
+	margin: 30px 0px 30px;
+	position:relative;
+	bottom: 70px;
+	left: 620px;
+}
+#calendar{
+ width: 199px;
+	float: left;
+	margin: 30px 0px 30px;
+	position:relative;
+	top: 70px;
+	left: 620px;
+}
+#c{
+	width: 280px;
+	float: left;
+	margin: 30px 0px 30px;
+	position:relative;
+	top: 10px;
+	left: 622px;
+}
+#f{
+position:absolute;
+right: 125px;
+bottom:500px;
+}
+#t{
+position:absolute;
+right: 80px;
+bottom:500px;
+}
+#g{
+position:absolute;
+right: 90px;
+bottom:500px;
+}
+	
+a{
+	/*float:right;*/
+	margin-right:15px;
+	font-weight:bold;
+	color:#000000;
+}
+
